@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashishsahani
 - 👀 I’m interested in fullstack cloud web application and open source contribution
-- 🌱 I’m currently learning golang for system programming
+- 🌱 I’m currently learning system design and design patterns
 - 💞️ I’m looking to collaborate on Node JS, React JS, Vue JS, Docker, Python, Bamboo
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/dev-ashish-sahani/)
 
