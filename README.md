@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashishsahani
 - 👀 I’m interested in fullstack cloud web application and open source contribution
-- 🌱 I’m currently learning system design and design patterns
-- 💞️ I’m looking to collaborate on Node JS, React JS, Vue JS, Docker, Python, Bamboo
+- 🌱 I’m currently learning AI and ML
+- 💞️ I’m looking to collaborate on Node JS, React JS, Express JS, Mongo DB and AWS 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/dev-ashish-sahani/)
 
 <!---
